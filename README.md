@@ -1,4 +1,4 @@
-# vue-transition-test2
+# vue-transition-test
 
 ## Project setup
 ```
